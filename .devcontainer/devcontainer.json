@@ -1,6 +1,6 @@
 {
-  "name": "ai-new-workflow-app-template",
-  "image": "ghcr.io/intel-agency/ai-new-workflow-app-template/devcontainer:main-latest",
+  "name": "convo-content-buddy-echo18",
+  "image": "ghcr.io/intel-agency/convo-content-buddy-echo18/devcontainer:main-latest",
   "containerEnv": {
     "DOTNET_ROOT": "/usr/share/dotnet"
   },
